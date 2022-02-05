@@ -1,4 +1,4 @@
-# Power_BI_Project
+# Power-BI-Dashboard
 
 Pulpit nawigacyjny (dashboard) z wizualizacjami danych dotyczących emisji gazów cieplarnianych. 
 Wszystkie dane pochodzą z "Our World in Data": https://github.com/owid/co2-data

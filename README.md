@@ -5,6 +5,6 @@ Pulpit nawigacyjny (dashboard) z wizualizacjami danych dotyczących emisji gazó
 Wszystkie dane pochodzą z "Our World in Data": https://github.com/owid/co2-data
 
 ![dashboard-1](https://user-images.githubusercontent.com/45266505/142074070-4f3d5eec-7177-49b8-9e89-0b85af793785.png)
-![image](https://user-images.githubusercontent.com/45266505/170010000-7a193d72-3c0f-4f22-bb79-78b9d52cc6b6.png)
+![image](https://user-images.githubusercontent.com/45266505/170010415-2db25f14-8f25-4d70-98f0-5d8d8941223f.png)
 ![dashboard-2](https://user-images.githubusercontent.com/45266505/142074754-3b6e7ce6-5b03-4446-8d92-4c97ba567b45.png)
 ![dashboard-3](https://user-images.githubusercontent.com/45266505/142074767-e93ae02e-3e1b-4a91-81ba-f4e6ffe94adf.png)

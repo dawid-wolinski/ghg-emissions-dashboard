@@ -7,6 +7,9 @@ All data was taken from "Our World in Data": https://github.com/owid/co2-data
 
 
 Raw data was cleaned by removing columns with data which can be calculated using DAX, such as cumulative or per capita data. Then it was normalised and split into 5 tables (as in the diagram below).
+
+## Data model
+
 <img src="https://user-images.githubusercontent.com/45266505/170011104-b1da9327-3052-470b-b088-c618d0c1813e.png" width=70% height=70%>
 
 ## Front page

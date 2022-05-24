@@ -1,7 +1,7 @@
 About
 ===
 
-This is an interactive Power BI dashboard about greenhouse gas (GHG) emissions. It shows data by location (country/continent), year and source of emission. 
+This is an interactive Power BI dashboard about greenhouse gas (GHG) emissions. It shows total, as well as per capit and per GDP data, by location (country/continent), year and source of emission.
 
 All data was taken from "Our World in Data": https://github.com/owid/co2-data
 

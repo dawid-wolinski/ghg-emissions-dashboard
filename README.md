@@ -14,16 +14,12 @@ Raw data was cleaned by removing columns with data which can be calculated using
 
 ## Front page
 
-![dashboard-1](https://user-images.githubusercontent.com/45266505/142074070-4f3d5eec-7177-49b8-9e89-0b85af793785.png)
+<img src="https://user-images.githubusercontent.com/45266505/142074070-4f3d5eec-7177-49b8-9e89-0b85af793785.png" width=70% height=70%>
 
 ## Country breakdown
 
-![dashboard-2](https://user-images.githubusercontent.com/45266505/142074754-3b6e7ce6-5b03-4446-8d92-4c97ba567b45.png)
+<img src="https://user-images.githubusercontent.com/45266505/142074754-3b6e7ce6-5b03-4446-8d92-4c97ba567b45.png" width=70% height=70%>
 
 ## Emission trends
 
-![dashboard-3](https://user-images.githubusercontent.com/45266505/142074767-e93ae02e-3e1b-4a91-81ba-f4e6ffe94adf.png)
-
-
-
-
+<img src="https://user-images.githubusercontent.com/45266505/142074767-e93ae02e-3e1b-4a91-81ba-f4e6ffe94adf.png" width=70% height=70%>
